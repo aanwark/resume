@@ -1,0 +1,13 @@
+auto
+*undo-tree*
+*.pdf
+*.log
+*.blg
+*.bbl
+*.bib.sav
+*.aux
+*.txt
+*.synctex.gz
+*.bak
+*.out
+*.xwm
