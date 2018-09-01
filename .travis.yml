@@ -9,6 +9,7 @@ deploy:
   provider: releases
   api_key:
     secure: HLYayB/0kMLfYvBo6D6blThrv+VnmIt8H8tyllXp1QtVIMEC8aWMtOCn4rYqGkY3STHxRA9g2MAu7zoaKa9zNqTnUdSAAR7RRhG96d2QCSVcubLigFS3YtYNetZ7FFFlAbalZyO+YKGUH5bIf0Be91hDyO+9pETJZDi5b0bue6DMRPuKRfuBG0pzm360F+5lgHAacxX8HB61mcOpJLVR+ibdrSg1zv6soRtsewdXBlFDjpXcvLElLltllNsvlzzm2pG3+1tnnNQCk7OFiZcLda0I5METAv27q80Gs8huROPz44hRNhXjY5fM63sAvyEohMP/NtvMTHso0FZTyN4XabqiaaQ+EvqrMlfiKGVVJvc71TafRDHmkgTgdkpdgNiZl2fnMEDSsvK7c3bFAtub2K3L7C27+ch18pK2n5Azg5Fvv4joxE/lDzOk9XQkZKCfKZLcaNT+pkzd8tXtlHuBpVDXmWQ21WG/1i3PxR6l1px3jZNjeNBNCV5RXG4oN5n/nub2CpCawD6gtAGmPD2Spfgqs/i6yV9MgVfa95d/lFR5CsQVZrkcQAIPbg9zpwjiHPYbNp5BBq3a/nhGAEKQcmT82y85c12sVmr/gTszt6xQjuKzg5a37m9UASNQj89R6srhhX1rXdYr5l0XSNPWxTu1quLPupxA8p4QMsMAyiA=
-  file: cv_12.pdf
+  file:
+  - _build/cv_12.pdf
   on:
     repo: denoza/resume
